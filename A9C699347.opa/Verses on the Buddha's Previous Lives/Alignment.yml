@@ -1,0 +1,28 @@
+segment_sources:
+  P03207F7B:
+    type: origin_type
+    relation: translation
+    language: en
+  PD69660D1:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  a5d9cbe748cb4f21bae90e79f42a97b7:
+    P03207F7B: dcc0af27f1a24e1fbdbf0125a410f534
+    PD69660D1: b8acc19fd9574d1ea0d6f00dafd9e6af
+  a0b223466540434ba806bcc3e8602c79:
+    P03207F7B: e1e11cf6aceb494898881193152ffeb1
+    PD69660D1: a322daa7492a414e937bedb5d06d78b6
+  e48ada73821a4168803f1fcfb7e259d5:
+    P03207F7B: 0e0bd5d4ac5040b7a38de345291d460a
+    PD69660D1: 6f183cae141f421bb30a86cde462cb51
+  171c478e209f465e9f6341989eb42afe:
+    P03207F7B: ea1951656ef948528daf8c4f0855bada
+    PD69660D1: b79f8cd4a24b463cb407a639c62a4f7f
+  5eff063616a042baaf9f937f8ef3a8e8:
+    P03207F7B: 14589884b318491290ff292d7af863fc
+    PD69660D1: 2a1b89a7138e411a96329944a882f1fc
+  b5b606e2f829424aaab12c73aa7c8886:
+    P03207F7B: 935be63b577b4229919b8d458c9a379a
+    PD69660D1: ea7347dff7fe47c7998c2a43aea92c11
